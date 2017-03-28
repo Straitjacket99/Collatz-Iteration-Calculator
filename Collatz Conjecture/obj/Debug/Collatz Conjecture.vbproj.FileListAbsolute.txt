@@ -1,0 +1,11 @@
+c:\users\hussa\documents\visual studio 2017\Projects\Collatz Conjecture\Collatz Conjecture\bin\Debug\Collatz Conjecture.exe.config
+c:\users\hussa\documents\visual studio 2017\Projects\Collatz Conjecture\Collatz Conjecture\bin\Debug\Collatz Conjecture.exe
+c:\users\hussa\documents\visual studio 2017\Projects\Collatz Conjecture\Collatz Conjecture\bin\Debug\Collatz Conjecture.pdb
+c:\users\hussa\documents\visual studio 2017\Projects\Collatz Conjecture\Collatz Conjecture\bin\Debug\Collatz Conjecture.xml
+c:\users\hussa\documents\visual studio 2017\Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.vbprojResolveAssemblyReference.cache
+c:\users\hussa\documents\visual studio 2017\Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz_Conjecture.Resources.resources
+c:\users\hussa\documents\visual studio 2017\Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.vbproj.GenerateResource.Cache
+c:\users\hussa\documents\visual studio 2017\Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.exe
+c:\users\hussa\documents\visual studio 2017\Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.xml
+c:\users\hussa\documents\visual studio 2017\Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.pdb
+c:\users\hussa\documents\visual studio 2017\Projects\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz_Conjecture.frmMain.resources
